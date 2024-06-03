@@ -1,0 +1,16 @@
+.summary__detailTop{
+    display: grid;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.summary__detailTop h3{
+    border: solid 2px aquamarine;
+    padding: 10px;
+    text-align: center;
+}
+
+.summary__detailTop div{
+    padding-top: 10px;
+    margin-right: 50px;
+}

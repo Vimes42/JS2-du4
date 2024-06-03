@@ -1,0 +1,5 @@
+.summary__cancel{
+    grid-column: 3 / 4;
+    grid-row: 1 / 2;
+    font-size: 20px;
+}
