@@ -1,6 +1,6 @@
 import './BookingSummary.css';
-import { SummaryHead } from '../summary_head/summary';
-import { SummaryDetails } from '../summary_detailTop/summary_detailTop';
+import { SummaryHead } from '../SummaryHead/Summary';
+import { SummaryDetails } from '../SummaryDetailTop/SummaryDetailTop';
 
 export const BookingSummary = () => {
     return (

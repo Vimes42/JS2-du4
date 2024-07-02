@@ -1,4 +1,4 @@
-import './summary.css'
+import './Summary.css'
 
 export const SummaryHead = (props) => {
   const { photoSrc, hotelname, address, city, rating, roomname, roomtype, roomprice } = props;

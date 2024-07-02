@@ -1,4 +1,4 @@
-import './summary__cancel.css'
+import './SummaryCancel.css'
 
 export const SummaryCancel = () => {
     return (<div className="summary__cancel">

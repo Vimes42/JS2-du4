@@ -1,4 +1,4 @@
-import './summary__services.css';
+import './SummaryServices.css';
 
 export const SummaryServices = (props) => {
            const { parkingPrice, breakfastPrice } = props;

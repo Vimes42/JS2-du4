@@ -1,7 +1,7 @@
-import './summary_detailTop.css';
-import { SummaryDetail } from '../summary_detail/summary_detail';
-import { SummaryServices } from '../summary_services/summary__services';
-import { SummaryCancel } from '../summary__cancel/summary__cancel';
+import './SummaryDetailTop.css';
+import { SummaryDetail } from '../SummaryDetail/SummaryDetail';
+import { SummaryServices } from '../SummaryServices/SummaryServices';
+import { SummaryCancel } from '../SummaryCancel/SummaryCancel';
 
 export const SummaryDetails = () => {
     return (

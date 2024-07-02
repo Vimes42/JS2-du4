@@ -1,4 +1,4 @@
-import './summary_detail.css'
+import './SummaryDetail.css'
 
 export const SummaryDetail = (props) => {
     const { ReservationNumber, dates, guests, boarding, totalPrice, checkIn, checkOut } = props
